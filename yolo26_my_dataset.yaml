@@ -1,0 +1,9 @@
+path: C:\Users\jack_\yolo26_env\yolo26_my_dataset  # 資料集根目錄的絕對路徑
+train: images/train          # 訓練集圖片資料夾（相對於 path）
+val: images/val              # 驗證集圖片資料夾（相對於 path）
+
+# 類別名稱對應表
+names:
+  0: dog
+  1: cat
+  2: people
